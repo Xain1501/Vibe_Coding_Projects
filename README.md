@@ -1,6 +1,3 @@
-# Vibe_Coding_Projects
-A curated list of my projects powered by AI-enhanced coding (aka vibe coding)
-
 # 🌟 AI-Vibe Coding Projects
 
 This repo lists all the projects where I used AI tools (like ChatGPT or GitHub Copilot) to help me write, plan, debug, or refine code. These tools helped speed up my workflow and improve the quality of my projects.
