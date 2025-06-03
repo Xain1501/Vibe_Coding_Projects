@@ -11,13 +11,16 @@ This repo lists all the projects where I used AI tools (like ChatGPT or GitHub C
 
 ## 📂 Projects Using AI
 
-| Project | Description| Repo Link |
-|--------|-------------|----------------|-----------|
-| Blog Frontend | Frontend using React + Redux | UI components, state logic, styling | [GitHub](https://github.com/yourusername/blog-frontend) |
+- [Quiz Maker](https://github.com/Xain1501/QuizMaker.git): Makes a simple quiz and allows students to take the quiz and get it marked.
+- [Slang Sleuth](https://github.com/Xain1501/SlangSleuth.git): Allows People to search GenZ slangs and learn what they mean.
 
-
----
 
 ## 🎯 Why This Repo?
 Many of my repos show working code, but this one highlights how I utilized AI to turn my ideas into features and my thoughts into code  — not just what I made, but **how** I made it.
+
+---
+
+ **#PS:** This repo collects all the projects where I used AI tools while coding.  
+These projects might also be part of other repos, but this one keeps them grouped based on AI involvement — so it’s easier to explore vibe-coded work specifically.
+
 
