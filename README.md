@@ -13,6 +13,7 @@ This repo lists all the projects where I used AI tools (like ChatGPT or GitHub C
 
 - [Quiz Maker](https://github.com/Xain1501/QuizMaker.git): Makes a simple quiz and allows students to take the quiz and get it marked.
 - [Slang Sleuth](https://github.com/Xain1501/SlangSleuth.git): Allows People to search GenZ slangs and learn what they mean.
+- [Goal Manager](https://github.com/Xain1501/GoalManager.git): A simple Python CLI app to create, manage, and track goals and sub-goals with progress and history saved in a JSON file.
 
 
 ## 🎯 Why This Repo?
